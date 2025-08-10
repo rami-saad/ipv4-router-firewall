@@ -1,4 +1,4 @@
-# Custom IPv4 Router & Firewall [![CI](https://github.com/rami-saad/ipv4-router-firewall/actions/workflows/ci.yml/badge.svg)](https://github.com/rami-saad/ipv4-router-firewall/actions)
+# Custom IPv4 Router & Firewall
 
 A Mininet-style Layer‑3 router and firewall policy engine. Includes unit tests for ICMP filtering, subnet isolation, and anti‑spoofing rules. Mininet topology file is included as a placeholder for future integration tests.
 
